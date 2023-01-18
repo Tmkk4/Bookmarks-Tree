@@ -1,0 +1,17 @@
+{
+   
+    "manifest_version": 3,
+    "name": "read-bookmarks",
+    "version": "1.0",
+    "description": "A simple study program to show bookmarks",
+    "action":{
+        "default_popup": "popup/popup.html",
+        "default_icon": "images/book-mark-fill.svg"
+    },
+
+    
+    "permissions": [
+        "bookmarks"
+    ],
+    "version_name": "1.0 beta"
+  }
